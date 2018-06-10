@@ -1,0 +1,240 @@
+{
+  "src": [
+    "data/audio.ogg",
+    "data/audio.m4a"
+  ],
+  "sprite": {
+    "block_activated_reversed": [
+      0,
+      730.8163265306123
+    ],
+    "block_activated": [
+      2000,
+      730.8163265306123
+    ],
+    "block_deactivated_reversed": [
+      4000,
+      901.6099773242629
+    ],
+    "block_deactivated": [
+      6000,
+      901.6099773242629
+    ],
+    "block_slide_reversed": [
+      8000,
+      243.80952380952436
+    ],
+    "block_slide": [
+      10000,
+      243.80952380952436
+    ],
+    "build_bridge_reversed": [
+      12000,
+      458.8888888888896
+    ],
+    "build_bridge": [
+      14000,
+      458.8888888888896
+    ],
+    "player_walk_floor.0": [
+      16000,
+      201.72335600906877
+    ],
+    "player_walk_floor.1": [
+      18000,
+      174.14965986394648
+    ],
+    "player_walk_floor.2": [
+      20000,
+      204.62585034013614
+    ],
+    "player_walk_floor.3": [
+      22000,
+      193.01587301587375
+    ],
+    "player_walk_floor.4": [
+      24000,
+      184.30839002267518
+    ],
+    "player_walk_floor.5": [
+      26000,
+      206.07709750566983
+    ],
+    "player_walk_floor.6": [
+      28000,
+      184.30839002267518
+    ],
+    "player_walk_floor.7": [
+      30000,
+      142.94784580498998
+    ],
+    "player_walk_floor_reversed.0": [
+      32000,
+      201.72335600906877
+    ],
+    "player_walk_floor_reversed.1": [
+      34000,
+      174.14965986394293
+    ],
+    "player_walk_floor_reversed.2": [
+      36000,
+      204.62585034013614
+    ],
+    "player_walk_floor_reversed.3": [
+      38000,
+      193.01587301587375
+    ],
+    "player_walk_floor_reversed.4": [
+      40000,
+      184.30839002267874
+    ],
+    "player_walk_floor_reversed.5": [
+      42000,
+      206.07709750566983
+    ],
+    "player_walk_floor_reversed.6": [
+      44000,
+      184.30839002267874
+    ],
+    "player_walk_floor_reversed.7": [
+      46000,
+      142.94784580498998
+    ],
+    "player_walk_grass.0": [
+      48000,
+      247.43764172335858
+    ],
+    "player_walk_grass.1": [
+      50000,
+      246.71201814059174
+    ],
+    "player_walk_grass.2": [
+      52000,
+      208.9795918367372
+    ],
+    "player_walk_grass.3": [
+      54000,
+      240.18140589569015
+    ],
+    "player_walk_grass.4": [
+      56000,
+      235.8276643990962
+    ],
+    "player_walk_grass.5": [
+      58000,
+      219.86394557823274
+    ],
+    "player_walk_grass.6": [
+      60000,
+      240.18140589569015
+    ],
+    "player_walk_grass.7": [
+      62000,
+      224.94331065759354
+    ],
+    "player_walk_grass_reversed.0": [
+      64000,
+      247.43764172335148
+    ],
+    "player_walk_grass_reversed.1": [
+      66000,
+      246.71201814058463
+    ],
+    "player_walk_grass_reversed.2": [
+      68000,
+      208.9795918367372
+    ],
+    "player_walk_grass_reversed.3": [
+      70000,
+      240.18140589569725
+    ],
+    "player_walk_grass_reversed.4": [
+      72000,
+      235.8276643990962
+    ],
+    "player_walk_grass_reversed.5": [
+      74000,
+      219.86394557822564
+    ],
+    "player_walk_grass_reversed.6": [
+      76000,
+      240.18140589569725
+    ],
+    "player_walk_grass_reversed.7": [
+      78000,
+      224.94331065759354
+    ],
+    "player_walk_water.0": [
+      80000,
+      175.60090702947662
+    ],
+    "player_walk_water.1": [
+      82000,
+      238.00453514739672
+    ],
+    "player_walk_water.2": [
+      84000,
+      233.65079365079566
+    ],
+    "player_walk_water.3": [
+      86000,
+      354.1043083900206
+    ],
+    "player_walk_water.4": [
+      88000,
+      171.24716553287556
+    ],
+    "player_walk_water.5": [
+      90000,
+      127.34693877551706
+    ],
+    "player_walk_water.6": [
+      92000,
+      130.61224489796075
+    ],
+    "player_walk_water.7": [
+      94000,
+      157.46031746031974
+    ],
+    "player_walk_water_reversed.0": [
+      96000,
+      175.60090702947662
+    ],
+    "player_walk_water_reversed.1": [
+      98000,
+      238.00453514739672
+    ],
+    "player_walk_water_reversed.2": [
+      100000,
+      233.65079365079566
+    ],
+    "player_walk_water_reversed.3": [
+      102000,
+      354.1043083900206
+    ],
+    "player_walk_water_reversed.4": [
+      104000,
+      171.24716553287556
+    ],
+    "player_walk_water_reversed.5": [
+      106000,
+      127.34693877551706
+    ],
+    "player_walk_water_reversed.6": [
+      108000,
+      130.61224489796075
+    ],
+    "player_walk_water_reversed.7": [
+      110000,
+      157.46031746031974
+    ],
+    "portal_active_reversed": [
+      112000,
+      4736.870748299324
+    ],
+    "portal_active": [
+      118000,
+      4736.870748299324
+    ]
+  }
+}
